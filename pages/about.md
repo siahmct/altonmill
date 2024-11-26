@@ -12,12 +12,6 @@ credits: false
 
 {% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
 
-## Description
-
-A Work of Love: a podacst episode discussing the ongoing preservation efforts at the Alton Mill Arts Centre. Joined by general manager Martin Kouprie, Siah McTavish and Ashley Chintan discuss the continuity and change at the heritage site as it engages with contemporary audiences.  
-
-
-
 ## Links
 The following links and resources were referred to in in the podcast audio:
 
