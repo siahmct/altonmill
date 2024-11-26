@@ -29,14 +29,15 @@ The following links and resources were referred to in in the podcast audio:
 The creators would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
+- Martin Kouprie of the Alton Mill Arts Centre for his time and thoughtful discussion. 
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321](https://www.cjc-online.ca/index.php/journal/article/view/2321).
+Alton Mills Art Center Admin. History · Alton Mill. (2023).
 
-“Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2)” *Digital Tattoo*. Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/](https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law).
+Beaumont, Ralph. Alton: A Pictorial History. Cheltenham, Ont: Boston Mills Press, 1977. Canada. Parks Canada. Historic Places Programs Branch. Canadian Register of Historic Places. Winnipeg, MB: Parks Canada, 1995.
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/](https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/).
+Farley, Rebecca, and Venda Louise Pollock. “Contemporary Art in Heritage Practice: Mapping Its Intentions, Claims, and Complexities.” Heritage & Amp; Society 15, no. 3 (September 2, 2022): 241–58.
 
 Tawfik, Myra. “History in the Balance: Copyright and Access to Knowledge.” In *“Radical Extremism” to “Balanced Copyright”: Canadian Copyright and the Digital Agenda*, edited by Michael Geist, 69–89. Toronto, Canada: Irwin Law, 2010.
 
